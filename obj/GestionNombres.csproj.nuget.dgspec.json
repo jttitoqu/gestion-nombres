@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj": {}
+    "C:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj": {
+    "C:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj",
+        "projectUniqueName": "C:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj",
         "projectName": "GestionNombres",
-        "projectPath": "c:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj",
+        "projectPath": "C:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\GestionNombres.csproj",
         "packagesPath": "C:\\Users\\jttitoqu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\obj\\",
+        "outputPath": "C:\\Users\\jttitoqu\\Downloads\\CURSOS-NTT\\Estructura Basica\\GestionNombres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jttitoqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

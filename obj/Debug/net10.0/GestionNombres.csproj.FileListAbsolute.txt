@@ -1,0 +1,15 @@
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\bin\Debug\net10.0\GestionNombres.exe
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\bin\Debug\net10.0\GestionNombres.deps.json
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\bin\Debug\net10.0\GestionNombres.runtimeconfig.json
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\bin\Debug\net10.0\GestionNombres.dll
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\bin\Debug\net10.0\GestionNombres.pdb
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.AssemblyInfoInputs.cache
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.AssemblyInfo.cs
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.csproj.CoreCompileInputs.cache
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.sourcelink.json
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.dll
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\refint\GestionNombres.dll
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.pdb
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\GestionNombres.genruntimeconfig.cache
+C:\Users\jttitoqu\Downloads\CURSOS-NTT\Estructura Basica\GestionNombres\obj\Debug\net10.0\ref\GestionNombres.dll
